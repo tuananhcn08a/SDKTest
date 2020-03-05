@@ -80,7 +80,7 @@ hello
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://EXAMPLE/SDKTest.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/tuananhcn08a/SDKTest", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
