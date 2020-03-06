@@ -22,7 +22,7 @@ Pod::Spec.new do |spec|
 
   spec.ios.deployment_target = "9.0"
 
-  spec.source       = { :https => "https://github.com/tuananhcn08a/SDKTest/blob/master/FESdk/FESdk.zip" }
+  spec.source       = { :http => "https://github.com/tuananhcn08a/SDKTest/blob/master/FESdk/FESdk.zip" }
 
 
   spec.ios.vendored_frameworks = 'FESdk.framework'
